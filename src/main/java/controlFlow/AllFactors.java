@@ -1,8 +1,5 @@
 package controlFlow;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class AllFactors {
 
 //  Write a method named printFactors with one parameter of type int named number.
