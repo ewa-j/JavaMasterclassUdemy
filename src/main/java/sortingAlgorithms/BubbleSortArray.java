@@ -1,6 +1,6 @@
 package sortingAlgorithms;
 
-public class bubbleSortArray {
+public class BubbleSortArray {
 
   private final int[] intArray = {20, 35, -15, 7, 55, 1, -22};
 
